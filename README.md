@@ -21,6 +21,8 @@
 
 ## 🖼️ Screenshots
 
+<img width="782" height="568" alt="image" src="https://github.com/user-attachments/assets/68838417-3d19-4034-8612-fdb3fa81e8df" />
+
 ## ⚠️ Limitations
 
 - В логе нет сессий, поэтому доли посетителей описательные, а не строгая воронка
